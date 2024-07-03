@@ -23,5 +23,5 @@ This repository contains the source code for the article *Dynamic Programming wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dynamic-programming-with-cpp.git
+   git clone https://github.com/yourname/Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights
 
