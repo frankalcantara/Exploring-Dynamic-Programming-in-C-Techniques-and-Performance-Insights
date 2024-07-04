@@ -1,0 +1,97 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# VS Code directories
+.vscode/
+.vscode-oss/
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+TestResults
+
+# Auto generated VS 2019 project upgrade backup
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+UpgradeLog.xml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Waf build files
+.lock-waf*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# node.js modules
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.history/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.tmpfile
+
+# Python virtual environments
+.venv/
+__pycache__/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
