@@ -1,0 +1,6 @@
+﻿  Fibonacci_Arrays.cpp
+Fibonacci_Vectors.obj : error LNK2005: "int __cdecl fibonacci(int)" (?fibonacci@@YAHH@Z) already defined in Fibonacci_Arrays.obj
+Fibonacci_Vectors.obj : error LNK2005: "int __cdecl fibonacci_memo(int,class std::unordered_map<int,int,struct std::hash<int>,struct std::equal_to<int>,class std::allocator<struct std::pair<int const ,int> > > &)" (?fibonacci_memo@@YAHHAEAV?$unordered_map@HHU?$hash@H@std@@U?$equal_to@H@2@V?$allocator@U?$pair@$$CBHH@std@@@2@@std@@@Z) already defined in Fibonacci_Arrays.obj
+Fibonacci_Vectors.obj : error LNK2005: "int __cdecl fibonacci_tabulation(int)" (?fibonacci_tabulation@@YAHH@Z) already defined in Fibonacci_Arrays.obj
+Fibonacci_Vectors.obj : error LNK2005: main already defined in Fibonacci_Arrays.obj
+D:\OneDrive\Projetos\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\Fibonacci\x64\Debug\Fibonacci.exe : fatal error LNK1169: one or more multiply defined symbols found
