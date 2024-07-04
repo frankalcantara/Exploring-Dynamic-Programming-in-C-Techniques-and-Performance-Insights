@@ -95,3 +95,4 @@ __pycache__/
 
 # Visual Studio
 .vs/
+/Fibonacci/.vs/Fibonacci/v17/Browse.VC.db
