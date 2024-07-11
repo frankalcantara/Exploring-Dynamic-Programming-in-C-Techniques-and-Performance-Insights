@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci - Arrays", "Fibonacci.vcxproj", "{E10EC3F6-0F0C-4BEE-8FBF-28C2B68844A3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci-Arrays", "Fibonacci.vcxproj", "{E10EC3F6-0F0C-4BEE-8FBF-28C2B68844A3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci - Vectors", "..\Fibonacci - Vectors\Fibonacci - Vectors.vcxproj", "{BCCCA9CC-C3D1-4B20-AE3A-D66775C74BC4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci-Vectors", "..\Fibonacci - Vectors\Fibonacci - Vectors.vcxproj", "{BCCCA9CC-C3D1-4B20-AE3A-D66775C74BC4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci-C-Arrays", "..\Fibonacci-C-Arrays\Fibonacci-C-Arrays.vcxproj", "{C9002324-27D9-489F-9610-8BE76492B459}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Sum Brute Force", "..\Two Sum Brute Force\Two Sum Brute Force.vcxproj", "{D7733520-9BCC-4BE8-AFBA-450336FA75B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Sum Brute Force Optional", "..\Two Sum Brute Force Optional\Two Sum Brute Force Optional.vcxproj", "{765D4C61-BAEA-40F9-96B9-CC541601EDCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,22 @@ Global
 		{C9002324-27D9-489F-9610-8BE76492B459}.Release|x64.Build.0 = Release|x64
 		{C9002324-27D9-489F-9610-8BE76492B459}.Release|x86.ActiveCfg = Release|Win32
 		{C9002324-27D9-489F-9610-8BE76492B459}.Release|x86.Build.0 = Release|Win32
+		{D7733520-9BCC-4BE8-AFBA-450336FA75B0}.Debug|x64.ActiveCfg = Debug|x64
+		{D7733520-9BCC-4BE8-AFBA-450336FA75B0}.Debug|x64.Build.0 = Debug|x64
+		{D7733520-9BCC-4BE8-AFBA-450336FA75B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7733520-9BCC-4BE8-AFBA-450336FA75B0}.Debug|x86.Build.0 = Debug|Win32
+		{D7733520-9BCC-4BE8-AFBA-450336FA75B0}.Release|x64.ActiveCfg = Release|x64
+		{D7733520-9BCC-4BE8-AFBA-450336FA75B0}.Release|x64.Build.0 = Release|x64
+		{D7733520-9BCC-4BE8-AFBA-450336FA75B0}.Release|x86.ActiveCfg = Release|Win32
+		{D7733520-9BCC-4BE8-AFBA-450336FA75B0}.Release|x86.Build.0 = Release|Win32
+		{765D4C61-BAEA-40F9-96B9-CC541601EDCD}.Debug|x64.ActiveCfg = Debug|x64
+		{765D4C61-BAEA-40F9-96B9-CC541601EDCD}.Debug|x64.Build.0 = Debug|x64
+		{765D4C61-BAEA-40F9-96B9-CC541601EDCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{765D4C61-BAEA-40F9-96B9-CC541601EDCD}.Debug|x86.Build.0 = Debug|Win32
+		{765D4C61-BAEA-40F9-96B9-CC541601EDCD}.Release|x64.ActiveCfg = Release|x64
+		{765D4C61-BAEA-40F9-96B9-CC541601EDCD}.Release|x64.Build.0 = Release|x64
+		{765D4C61-BAEA-40F9-96B9-CC541601EDCD}.Release|x86.ActiveCfg = Release|Win32
+		{765D4C61-BAEA-40F9-96B9-CC541601EDCD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
