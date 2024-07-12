@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Fibonacci\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44975EE2-05A9-4649-8162-20DC0D0FE40B}|..\\Two Sum - 4 Solutions Comparison\\Two Sum - 4 Solutions Comparison.vcxproj|D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum - 4 Solutions Comparison\\Two Sum - 4 Solutions Comparison.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E2B24-E961-4192-9F36-6284D2ACC450}|..\\Two Sum Tabulation\\Two Sum Tabulation.vcxproj|D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Tabulation\\Two Sum Tabulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74C0D1B-1EA8-4907-A194-81C57FA832CF}|..\\Two Sum Memoization\\Two Sum Memoization.vcxproj|D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Memoization\\Two Sum Memoization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1066BCDD-0C46-42B2-B086-C950C7ADC689}|..\\Two Sum Recursively\\Two Sum Recursively.vcxproj|D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Recursively\\Two Sum Recursively.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{765D4C61-BAEA-40F9-96B9-CC541601EDCD}|..\\Two Sum Brute Force Optional\\Two Sum Brute Force Optional.vcxproj|D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Brute Force Optional\\Two Sum Brute Force Optional.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -29,6 +41,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Two Sum - 4 Solutions Comparison.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum - 4 Solutions Comparison\\Two Sum - 4 Solutions Comparison.cpp",
+              "RelativeDocumentMoniker": "..\\Two Sum - 4 Solutions Comparison\\Two Sum - 4 Solutions Comparison.cpp",
+              "ToolTip": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum - 4 Solutions Comparison\\Two Sum - 4 Solutions Comparison.cpp",
+              "RelativeToolTip": "..\\Two Sum - 4 Solutions Comparison\\Two Sum - 4 Solutions Comparison.cpp",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAowIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T20:58:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Two Sum Tabulation.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Tabulation\\Two Sum Tabulation.cpp",
+              "RelativeDocumentMoniker": "..\\Two Sum Tabulation\\Two Sum Tabulation.cpp",
+              "ToolTip": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Tabulation\\Two Sum Tabulation.cpp",
+              "RelativeToolTip": "..\\Two Sum Tabulation\\Two Sum Tabulation.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T20:27:19.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Two Sum Memoization.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Memoization\\Two Sum Memoization.cpp",
+              "RelativeDocumentMoniker": "..\\Two Sum Memoization\\Two Sum Memoization.cpp",
+              "ToolTip": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Memoization\\Two Sum Memoization.cpp",
+              "RelativeToolTip": "..\\Two Sum Memoization\\Two Sum Memoization.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T20:03:56.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Two Sum Recursively.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Recursively\\Two Sum Recursively.cpp",
+              "RelativeDocumentMoniker": "..\\Two Sum Recursively\\Two Sum Recursively.cpp",
+              "ToolTip": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Recursively\\Two Sum Recursively.cpp",
+              "RelativeToolTip": "..\\Two Sum Recursively\\Two Sum Recursively.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T19:24:21.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Two Sum Brute Force Optional.cpp",
               "DocumentMoniker": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Brute Force Optional\\Two Sum Brute Force Optional.cpp",
               "RelativeDocumentMoniker": "..\\Two Sum Brute Force Optional\\Two Sum Brute Force Optional.cpp",
@@ -41,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Two Sum Brute Force.cpp",
               "DocumentMoniker": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Two Sum Brute Force\\Two Sum Brute Force.cpp",
               "RelativeDocumentMoniker": "..\\Two Sum Brute Force\\Two Sum Brute Force.cpp",
@@ -49,8 +113,7 @@
               "RelativeToolTip": "..\\Two Sum Brute Force\\Two Sum Brute Force.cpp",
               "ViewState": "AQIAABMAAAAAAAAAAAAowCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-11T14:21:44.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T14:21:44.468Z"
             }
           ]
         }
