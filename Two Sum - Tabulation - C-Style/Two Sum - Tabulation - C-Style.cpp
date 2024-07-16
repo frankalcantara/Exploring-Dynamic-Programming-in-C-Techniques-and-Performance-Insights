@@ -163,7 +163,8 @@ int main() {
         }, iterations, sequence.data(), sequence.size(), targetSum);
     std::cout << "Average time for Tabulation C-Style: " << tabulationCStyleTime << " ns\n";
 
-   std::cout << "-----------------------------------\n";
+    std::cout << "-----------------------------------\n";
 
     return 0;
 }
+        
