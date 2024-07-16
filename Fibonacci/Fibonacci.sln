@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Sum - 4 Solutions Compa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Sum - Tabulation - C-Style", "..\Two Sum - Tabulation - C-Style\Two Sum - Tabulation - C-Style.vcxproj", "{FBE40A0B-7600-4105-938F-132F81286A7A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two-Sum C++ Using only Array", "..\Two-Sum C++ Using only Array\Two-Sum C++ Using only Array.vcxproj", "{F4A70726-53D7-4751-BD54-6CDA349060D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{FBE40A0B-7600-4105-938F-132F81286A7A}.Release|x64.Build.0 = Release|x64
 		{FBE40A0B-7600-4105-938F-132F81286A7A}.Release|x86.ActiveCfg = Release|Win32
 		{FBE40A0B-7600-4105-938F-132F81286A7A}.Release|x86.Build.0 = Release|Win32
+		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Debug|x64.ActiveCfg = Debug|x64
+		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Debug|x64.Build.0 = Debug|x64
+		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Debug|x86.Build.0 = Debug|Win32
+		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Release|x64.ActiveCfg = Release|x64
+		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Release|x64.Build.0 = Release|x64
+		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Release|x86.ActiveCfg = Release|Win32
+		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
