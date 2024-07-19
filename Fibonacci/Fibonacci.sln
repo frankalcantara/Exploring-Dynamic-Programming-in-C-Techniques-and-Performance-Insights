@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Sum - Tabulation - C-St
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two-Sum C++ Using only Array", "..\Two-Sum C++ Using only Array\Two-Sum C++ Using only Array.vcxproj", "{F4A70726-53D7-4751-BD54-6CDA349060D5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Counting-All-Possible-Paths-in-a-Matrix", "..\Counting-All-Possible-Paths-in-a-Matrix\Counting-All-Possible-Paths-in-a-Matrix.vcxproj", "{4E39AED3-E05B-4B3C-B78D-869B94479E8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Release|x64.Build.0 = Release|x64
 		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Release|x86.ActiveCfg = Release|Win32
 		{F4A70726-53D7-4751-BD54-6CDA349060D5}.Release|x86.Build.0 = Release|Win32
+		{4E39AED3-E05B-4B3C-B78D-869B94479E8B}.Debug|x64.ActiveCfg = Debug|x64
+		{4E39AED3-E05B-4B3C-B78D-869B94479E8B}.Debug|x64.Build.0 = Debug|x64
+		{4E39AED3-E05B-4B3C-B78D-869B94479E8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E39AED3-E05B-4B3C-B78D-869B94479E8B}.Debug|x86.Build.0 = Debug|Win32
+		{4E39AED3-E05B-4B3C-B78D-869B94479E8B}.Release|x64.ActiveCfg = Release|x64
+		{4E39AED3-E05B-4B3C-B78D-869B94479E8B}.Release|x64.Build.0 = Release|x64
+		{4E39AED3-E05B-4B3C-B78D-869B94479E8B}.Release|x86.ActiveCfg = Release|Win32
+		{4E39AED3-E05B-4B3C-B78D-869B94479E8B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
