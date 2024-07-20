@@ -2,6 +2,9 @@
 #include <stack>
 #include <chrono>
 #include <vector>
+#include <array>
+
+const int MAX_SIZE = 100;
 
 // Function to measure execution time
 template <typename Func, typename... Args>
@@ -74,6 +77,24 @@ int countPathsMemoizationWrapper(int m, int n) {
     return countPathsMemoization(m, n, dp);
 }
 
+// Function to count paths using dynamic programming with tabulation
+int countPathsTabulation(int m, int n) {
+    std::array<std::array<int, MAX_SIZE>, MAX_SIZE> dp = {};
+
+    for (int i = 0; i < m; ++i) {
+        for (int j = 0; j < n; ++j) {
+            if (i == 0 || j == 0) {
+                dp[i][j] = 1;
+            }
+            else {
+                dp[i][j] = dp[i - 1][j] + dp[i][j - 1];
+            }
+        }
+    }
+
+    return dp[m - 1][n - 1];
+}
+
 int main() {
     int m = 3, n = 3;
     int iterations = 1000;
@@ -92,6 +113,12 @@ int main() {
         countPathsMemoizationWrapper(m, n);
         }, iterations, m, n);
     std::cout << "Average time for Memoization: " << memoizationTime << " ns\n";
+
+    // Measure average execution time for Tabulation Solution
+    auto tabulationTime = average_time([](int m, int n) {
+        countPathsTabulation(m, n);
+        }, iterations, m, n);
+    std::cout << "Average time for Tabulation: " << tabulationTime << " ns\n";
 
     std::cout << "-----------------------------------\n";
 

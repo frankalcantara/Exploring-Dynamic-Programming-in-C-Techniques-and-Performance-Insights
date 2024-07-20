@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Fibonacci\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB1AAC40-5202-4150-AD75-6A8735CAB50A}|..\\Longest-Increasing-Subsequence\\Longest-Increasing-Subsequence.vcxproj|D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Longest-Increasing-Subsequence\\Longest-Increasing-Subsequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E39AED3-E05B-4B3C-B78D-869B94479E8B}|..\\Counting-All-Possible-Paths-in-a-Matrix\\Counting-All-Possible-Paths-in-a-Matrix.vcxproj|D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Counting-All-Possible-Paths-in-a-Matrix\\Counting-All-Possible-Paths-in-a-Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,12 +29,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Longest-Increasing-Subsequence.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Longest-Increasing-Subsequence\\Longest-Increasing-Subsequence.cpp",
+              "RelativeDocumentMoniker": "..\\Longest-Increasing-Subsequence\\Longest-Increasing-Subsequence.cpp",
+              "ToolTip": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Longest-Increasing-Subsequence\\Longest-Increasing-Subsequence.cpp*",
+              "RelativeToolTip": "..\\Longest-Increasing-Subsequence\\Longest-Increasing-Subsequence.cpp*",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAYwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T19:24:55.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Counting-All-Possible-Paths-in-a-Matrix.cpp",
               "DocumentMoniker": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Counting-All-Possible-Paths-in-a-Matrix\\Counting-All-Possible-Paths-in-a-Matrix.cpp",
               "RelativeDocumentMoniker": "..\\Counting-All-Possible-Paths-in-a-Matrix\\Counting-All-Possible-Paths-in-a-Matrix.cpp",
               "ToolTip": "D:\\OneDrive\\Projetos\\Exploring-Dynamic-Programming-in-C-Techniques-and-Performance-Insights\\Counting-All-Possible-Paths-in-a-Matrix\\Counting-All-Possible-Paths-in-a-Matrix.cpp",
               "RelativeToolTip": "..\\Counting-All-Possible-Paths-in-a-Matrix\\Counting-All-Possible-Paths-in-a-Matrix.cpp",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEAAAABKAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAYwH4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-19T20:28:36.538Z",
               "EditorCaption": ""
